@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Embedded Systems and Robotics**
 
-- 📫 How to reach me **krnkreddy2004@gmail.com**
+- 📫 How to reach me **k.r.nitheeshkumarreddy@gmail.com**
 
 - 📄 Know about my experiences [https://krnkreddy-resume.tiiny.site/](https://krnkreddy-resume.tiiny.site/)
 
