@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm K Ranga Nitheesh Kumar Reddy</h1>
-<h3 align="center">Embedded Systems & Robotics Developer | Innovator | Tech Enthusiast</h3>
+<h3 align="center">Embedded Systems & Robotics Developer | Innovator | Tech & AI Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:k.r.nitheeshkumarreddy@gmail.com">
